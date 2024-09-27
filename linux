@@ -1,3 +1,5 @@
 # placeholder
 # to update bios of a machine (lenovo thinkpad)
 sudo fwupdmgr update
+# check system boottime
+systemd-analyze time
