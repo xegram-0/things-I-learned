@@ -1,1 +1,3 @@
 # placeholder
+# to update bios of a machine (lenovo thinkpad)
+sudo fwupdmgr update
