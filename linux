@@ -5,3 +5,7 @@ sudo fwupdmgr update
 systemd-analyze time
 # display information of the system
 uname -a # for all the stuff
+
+# link bash cmd with config
+alias ls="ls --color=auto"
+# unalias
