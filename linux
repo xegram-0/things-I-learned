@@ -9,3 +9,5 @@ uname -a # for all the stuff
 # link bash cmd with config
 alias ls="ls --color=auto"
 # unalias
+
+mkdir -p {}
