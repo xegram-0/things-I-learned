@@ -11,3 +11,8 @@ alias ls="ls --color=auto"
 # unalias
 
 mkdir -p {}
+
+#enable a service
+sudo systemctl enable --now [service]
+# check it status
+sudo systemctl status [service]
