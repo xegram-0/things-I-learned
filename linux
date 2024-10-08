@@ -20,3 +20,5 @@ sudo systemctl status [service]
 # xfce lock screen bg and profile picture should have 
 # the lightdm gui and images should be in usr share backgrounds
 # gdm is for gnome
+
+journalctl
