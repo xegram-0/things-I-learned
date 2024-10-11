@@ -22,3 +22,9 @@ sudo systemctl status [service]
 # gdm is for gnome
 head and tail -n 5
 journalctl
+
+touch [1..3].txt
+ln -s create link
+find -name -type
+chmod chown chgrp umask # default file permissions
+finger
