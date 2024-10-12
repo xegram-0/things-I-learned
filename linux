@@ -28,3 +28,5 @@ ln -s create link
 find -name -type
 chmod chown chgrp umask # default file permissions
 finger
+
+neofetch and fastfetch # same but with the name indicated the difference
