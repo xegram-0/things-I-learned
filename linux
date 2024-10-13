@@ -30,3 +30,5 @@ chmod chown chgrp umask # default file permissions
 finger
 
 neofetch and fastfetch # same but with the name indicated the difference
+
+gsconnect if kde connect failed
