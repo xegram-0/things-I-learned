@@ -36,3 +36,4 @@ gsconnect if kde connect failed
 # gnome blur shell is a joke
 
 tac and cat # same but reverse order of display
+ncdu # gui disk analyzer
