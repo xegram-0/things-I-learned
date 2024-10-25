@@ -37,3 +37,4 @@ gsconnect if kde connect failed
 
 tac and cat # same but reverse order of display
 ncdu # gui disk analyzer
+grep is to find a specific text within the file and can use with other commands
