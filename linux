@@ -30,4 +30,5 @@ gsconnect if kde connect failed
 # gnome blur shell is a joke
 tac and cat # same but reverse order of display
 ncdu # gui disk analyzer
-grep is to find a specific text within the file and can use with other commands
+grep is to find a specific text 
+within the file and can use with other commands
