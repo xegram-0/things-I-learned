@@ -22,9 +22,11 @@ journalctl
 touch [1..3].txt
 ln -s create link
 find -name -type
-chmod chown chgrp umask # default file permissions
+chmod chown chgrp umask 
+# default file permissions
 finger
-neofetch and fastfetch # same but with the name indicated the difference
+neofetch and fastfetch 
+# same but with the name indicated the difference
 gsconnect if kde connect failed
 # debian does not have its bluetooth gui
 # gnome blur shell is a joke
