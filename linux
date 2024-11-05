@@ -1,4 +1,5 @@
-# to update bios of a machine (lenovo thinkpad)
+# to update bios of a 
+machine (lenovo thinkpad)
 # only to xfce
 sudo fwupdmgr update
 # check system boottime
@@ -14,8 +15,10 @@ sudo systemctl enable --now [service]
 # check it status
 sudo systemctl status [service]
 # install unikey is ibus-bamboo
-# xfce lock screen bg and profile picture should have 
-# the lightdm gui and images should be in usr share backgrounds
+# xfce lock screen bg and 
+profile picture should have 
+# the lightdm gui and 
+images should be in usr share backgrounds
 # gdm is for gnome
 head and tail -n 5
 journalctl
@@ -26,7 +29,8 @@ chmod chown chgrp umask
 # default file permissions
 finger
 neofetch and fastfetch 
-# same but with the name indicated the difference
+# same but with the name indicated 
+the difference
 gsconnect if kde connect failed
 # debian does not have its bluetooth gui
 # gnome blur shell is a joke
