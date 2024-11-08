@@ -33,7 +33,8 @@ the difference
 gsconnect if kde connect failed
 # debian does not have its bluetooth gui
 # gnome blur shell is a joke
-tac and cat # same but reverse order of display
+tac and cat 
+# same but reverse order of display
 ncdu # gui disk analyzer
 # grep is to find a specific text 
 # within the file and can use with other commands
