@@ -50,8 +50,9 @@ ncdu # gui disk analyzer
 # buggy and out of place
 # this de can get too hot
 
-#xfce hates
+# xfce hates
 # very hard to use at first
 # everything is like a lego block
 # hotkeys are not intuitive
 # not every guide would be xfce specific
+# does not feel snappy
