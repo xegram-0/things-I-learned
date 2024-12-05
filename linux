@@ -27,7 +27,7 @@ find -name -type
 chmod chown chgrp umask 
 # default file permissions
 finger
-neofetch and fastfetch 
+# neofetch << fastfetch 
 # same but with the name indicated 
 the difference
 gsconnect if kde connect failed
