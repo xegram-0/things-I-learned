@@ -40,7 +40,7 @@ ncdu # gui disk analyzer
 # not fully riceable
 # defauft theme is not good looking enough
 # to run a train in the terminal
-sl
+# smb password
 
 # kde hates 
 # not as lightweight as I thought
@@ -75,4 +75,4 @@ sl
 # for some reasons my firefox is lagging when
 # watching yt
 # you need a partition manager for kde
-# 
+# unmount then lock then proceed like usual
