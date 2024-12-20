@@ -79,3 +79,5 @@ ncdu # gui disk analyzer
 # you need a partition manager for kde
 # unmount then lock then proceed like usual
 # seem like yt is slow on firefox
+# the downloading on firefox would appear on the
+screen rather than the browser
