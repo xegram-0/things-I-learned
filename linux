@@ -83,3 +83,5 @@ ncdu # gui disk analyzer
 screen rather than the browser
 # you have to hit apply when install or upgrade
 when using the software update
+# download xp drive from their site then use 
+# bash to install the .sh file
