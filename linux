@@ -89,4 +89,4 @@ when using the software update
 # change dns to cloudflare dns
 # for kde change auto to manual
 # sudo nano /etc/systemd/resolved.conf
-# 
+# sudo service systemd-restart
