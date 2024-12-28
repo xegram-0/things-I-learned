@@ -90,3 +90,5 @@ when using the software update
 # for kde change auto to manual
 # sudo nano /etc/systemd/resolved.conf
 # sudo service systemd-restart
+
+# wsl 
