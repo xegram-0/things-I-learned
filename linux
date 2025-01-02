@@ -91,9 +91,6 @@ when using the software update
 # sudo nano /etc/systemd/resolved.conf
 # sudo service systemd-restart
 
-# wsl 
-# such a headache
-# just use ms tutorial
 # to use bash on windows, have to install wsl
 # go to the ms site since download from store
 # does not work
