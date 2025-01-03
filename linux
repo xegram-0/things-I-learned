@@ -92,5 +92,5 @@ when using the software update
 # sudo service systemd-restart
 
 # to use bash on windows, have to install wsl
-# go to the ms site since download from store
-# does not work
+# follow the guide on ms site should work fine
+#
