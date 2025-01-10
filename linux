@@ -1,4 +1,4 @@
-## to update bios of a machine (lenovo thinkpad)
+# to update bios of a machine (lenovo thinkpad)
 # only to xfce
 sudo fwupdmgr update
 # check system boottime
