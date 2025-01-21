@@ -1,3 +1,5 @@
+import time
+
 # use True and False for faster sorting (sort of)
 def bubble_sort(unsortList:list):
     sorted_list = unsortList
@@ -18,6 +20,9 @@ def main():
     for i in range(inputRange):
         unsortedList.append(int(input(f"{i}: "))) # append works but not assigning values
     print(bubble_sort(unsortedList))
+    start_time = time.time()
+    print("Process finished --- %s seconds ---" % (time.time() - start_time))
+
 
 if __name__ == "__main__":
     main()
