@@ -96,4 +96,6 @@ when using the software update
 # type bash in cmd to enter linux mode
 # do not install on the store as it does not work
 # libre can have template
-#
+
+
+sleep [amount of time]
