@@ -97,5 +97,5 @@ when using the software update
 # do not install on the store as it does not work
 # libre can have template
 
-
 sleep [amount of time]
+shutdown now
