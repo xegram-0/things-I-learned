@@ -99,3 +99,4 @@ when using the software update
 
 sleep [amount of time]
 shutdown now
+# use & to make multiple cmd despite failure
