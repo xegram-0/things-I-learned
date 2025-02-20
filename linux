@@ -100,4 +100,7 @@ when using the software update
 sleep [amount of time]
 shutdown now
 # use & to make multiple cmd despite failure
-# something
+
+# scrcpy does work for android
+# but not for ios
+# realvnc requires account liscence
