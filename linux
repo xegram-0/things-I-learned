@@ -1,8 +1,10 @@
 # to update bios of a machine (lenovo thinkpad)
 # only to xfce
 sudo fwupdmgr update
+
 # check system boottime
 systemd-analyze time
+
 # display information of the system
 uname -a # for all the stuff
 
