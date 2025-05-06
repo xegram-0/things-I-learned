@@ -1,14 +1,7 @@
-Source: https://askubuntu.com/questions/639389/install-tar-gz-but-no-configure-folder-on-install-file
-"To install it, I suggest you to move the folder to /opt/ by running
-
-sudo mv ~/Downloads/RoKiSim/ /opt/
-
-to make the program executable by running
-
-chmod +x /opt/RoKiSim/bin/RoKiSim
-
-and to add a symbolic link to /usr/bin/ by running
-
-sudo ln -s /opt/RoKiSim/bin/RoKiSim /usr/bin/rokisim
-
-After that, you'll be able to run the program just by running rokisim."
+1. Move to the tar file to /opt
+2. Make it executable
+chmod +x [file]
+3. Create symbolic link to /usr/bin: sudo ln -s [current file location] [usr/...]
+4. Open terminal and type its name to run the program
+(Source: https://askubuntu.com/questions/639389/install-tar-gz-but-no-configure-folder-on-install-file)
+Nowadays, we can just put the tar file either extract it or drag to the store of your linux distro
