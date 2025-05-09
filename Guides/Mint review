@@ -15,3 +15,4 @@ Bad stuff:
 2. Libre office icons were not visible in light mode, dark mode looked good but not enough (fixed by changing the theme icons)
 3. Grub could not detect windows 11 and be useless for having it at the startup (tried but nothing worked)
 4. The GPU driver was not installed (fixed by adding PPA link for drivers, installing the latest one and then rebooting the system)
+5. Hakuneko is not functional. 
