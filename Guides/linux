@@ -116,5 +116,3 @@ shutdown now
 # ubuntu gnome somehow fixes this with vlc
 
 	gsettings set org.gnome.desktop.interface clock-show-seconds true
-
-#
