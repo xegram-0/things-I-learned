@@ -8,6 +8,7 @@
     DNS=1.1.1.1#cloudflare-dns.com 1.0.0.1#cloudflare-dns.com 2606:4700:4700::1111#cloudflare-dns.com 2606:4700:4700::1001#cloudflare-dns.com
 5. Sudo systemctl restart systemd-resolved to put the DNS into effect
 # This will not change permanently as you have to manually type this line in order to change DNS
+# There is also etc/resolvd.conf but does nothing
 
 Important command lines:
 sudo nano /etc/systemd/resolved.conf

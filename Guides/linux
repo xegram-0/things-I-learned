@@ -115,6 +115,5 @@ shutdown now
 #fedora 42 somehow cannot play 2k video natively
 # ubuntu gnome somehow fixes this with vlc
 
-
-	gsettings set org.gnome.desktop.interface clock-show-seconds true
-# there is also etc/resolvd.conf but does nothing
+# Show second for gnome
+gsettings set org.gnome.desktop.interface clock-show-seconds true
