@@ -10,3 +10,4 @@ Bad stuff:
 3. Grub could not detect windows 11 and be useless for having it at the startup (tried but nothing worked)
 4. The GPU driver was not installed (fixed by adding PPA link for drivers, installing the latest one and then rebooting the system)
 5. Hakuneko is not functional. 
+6. USB crashed twice in a row with drive being used despite being ejected.
