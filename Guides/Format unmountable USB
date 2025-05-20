@@ -10,3 +10,6 @@
 4. sudo mkfs.ntfs /dev/sdX1
 5. sudo mkdir /mnt/usb
 6. sudo mount /dev/sdX1 /mnt/usb
+
+# There is a problem with ntfs whenever plugged to linux system
+# Twice this issue happened
