@@ -8,6 +8,7 @@
 3. sudo fdisk /dev/sdX
     o > n > p > [number] > w
 4. sudo mkfs.ntfs /dev/sdX1
+# Ntfs problem
 5. sudo mkdir /mnt/usb
 6. sudo mount /dev/sdX1 /mnt/usb
 
