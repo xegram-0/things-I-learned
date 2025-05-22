@@ -11,3 +11,5 @@ Bad stuff:
 4. The GPU driver was not installed (fixed by adding PPA link for drivers, installing the latest one and then rebooting the system)
 5. Hakuneko is not functional. 
 6. USB crashed twice in a row with drive being used despite being ejected.
+7. Chance of having wifi card turned off now appeared. 
+# Turn on and off with shutdown command
