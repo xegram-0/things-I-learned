@@ -14,3 +14,5 @@
 
 # There is a problem with ntfs whenever plugged to linux system
 # Twice this issue happened
+# Seem to be file system problem
+# DO NOT EJECT OR UNPLUG WITHOUT DOING PROPER UNMOUNT FROM THE FILE EXPLORER
