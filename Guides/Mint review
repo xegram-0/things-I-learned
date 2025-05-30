@@ -14,4 +14,5 @@ Bad stuff:
 5. Hakuneko is not functional. 
 6. USB crashed twice in a row with drive being used despite being ejected.
 7. Chance of having wifi card turned off now appeared. 
+8. Crashes occur sometimes
 # Turn on and off with shutdown command
