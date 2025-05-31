@@ -15,4 +15,5 @@ Bad stuff:
 6. USB crashed twice in a row with drive being used despite being ejected.
 7. Chance of having wifi card turned off now appeared. 
 8. Crashes occur sometimes
+9. Switching gpu proves to be odd as the fan noise is louder when save mode is on
 # Turn on and off with shutdown command
