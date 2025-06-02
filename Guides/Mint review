@@ -5,7 +5,7 @@ Good stuff:
 4. You can download deb package and install it via package installer right away without extra steps
 5. Able to switch gtx and amd flawlessly
 6. Taskbar has more customizable options than you realize
-7. The store is decent enough
+7. The store is decent enough for deb
 Bad stuff:
 1. Steam not working for some reasons - Crashed everytime (fixed by install from the steam site and type steam in terminal to download stuff)
 2. Libre office icons were not visible in light mode, dark mode looked good but not enough (fixed by changing the theme icons)
