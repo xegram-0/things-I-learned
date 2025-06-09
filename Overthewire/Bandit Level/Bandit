@@ -1,0 +1,14 @@
+Level 0-1: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+    ssh bandit.labs.overthewire.org -p 2220 -l bandit0
+    password is bandit0
+    ls
+    cat readme (flag)
+
+Level 1-2: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+    ssh bandit.labs.overthewire.org -p 2220 -l bandit1
+    password from lv1
+    ls
+    cat ./- (flag)
+
+Level 2-3: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
+    cat spaces\ in\ this\ filename (flag)
