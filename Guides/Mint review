@@ -17,4 +17,5 @@ Bad stuff:
 7. Chance of having wifi card turned off now appeared. 
 8. CRASHES OCCUR REGULARLY NOW
 9. Switching gpu proves to be odd as the fan noise is louder when save mode is on
+10. External drives have delayed or slow progress of writing hence not good for speedy backup (especially usb/exFat)
 # Turn on and off with shutdown command
