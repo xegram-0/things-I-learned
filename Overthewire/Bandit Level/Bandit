@@ -12,3 +12,47 @@ Level 1-2: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
 
 Level 2-3: MNk8KNH3Usiio41PRUEoDFPqfxLPlSmx
     cat spaces\ in\ this\ filename (flag)
+
+Level 3-4: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ
+    cd inhere
+    ll 
+    cat /inhere/...Hiding-From-You
+
+Level 4-5: 4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+    cd inhere
+    file ./*                # to find the type of all the files
+    cat ./-file07
+    
+    # file: determin file type
+
+Level 5-6: HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+    cd inhere
+    find ./* -size 1033c    # c for bytes size
+    cat ./maybehere07/.file2
+
+    # file ./*/* only gives the visable files not hidden
+
+Level 6-7: morbNTDkSW6jIlUc0ymOdMaLnOlFVAaj
+    cd ../..
+    find ./* -user bandit7 -group bandit6 -size 33c
+    cat ./var/lib/dpkg/info/bandit7.password
+
+    # It is stored somewhere in the server
+Level 7-8: dfwvzFQi4mU0wfNbFOe9RoWskMLg7eEc
+    ls
+    Ctrl+F: millionth
+    Copy+paste
+---------------
+    cat data.txt | grep "millionth"
+
+Level 8-9: 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+    sort data.txt | uniq -c # -c for count
+    Scroll up to find the 1
+---------------
+    sort filename | uniq -c | awk '$1 == 1 { print $2 }'
+
+Level 9-10: FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+    cat data.txt
+    Ctrl+F: ====
+---------------
+    strings data.txt
