@@ -24,14 +24,11 @@ finger
 # neofetch << fastfetch 
 # same but with the name indicated the difference
 gsconnect if kde connect failed
-
 # debian does not have its bluetooth gui
 # gnome blur shell is a joke
 tac and cat 
-
 # same but reverse order of display
 ncdu # gui disk analyzer
-
 # grep is to find a specific text 
 # within the file and can use with other commands
 # not fully riceable
@@ -40,7 +37,6 @@ ncdu # gui disk analyzer
 # smb password
 # check ip address of the server pc since it can 
 # be changed
-
 # kde hates 
 # not as lightweight as I thought
 # constant crash on the theme shops
