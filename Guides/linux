@@ -65,20 +65,13 @@ ncdu # gui disk analyzer
 # to use bash on windows, have to install wsl
 # follow the guide on ms site should work fine
 # type bash in cmd to enter linux mode
-# do not install on the store as it does not work
-# libre can have template
-
-sleep [amount of time]
-shutdown now
+# do not install on the store as it does not 
 # use & to make multiple cmd despite failure
-
 # scrcpy does work for android
 # but not for ios
 # realvnc requires account liscence
-
 #f12 for boot menu
 #fedora 42 somehow cannot play 2k video natively
 # ubuntu gnome somehow fixes this with vlc
-
 # Show second for gnome
 gsettings set org.gnome.desktop.interface clock-show-seconds true
