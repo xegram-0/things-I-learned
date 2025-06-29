@@ -2,7 +2,7 @@ Default apps:
     Libre Wolf (now that firefox is not good)
     Transmission (it is default for many distro and did its job)
     VSCodium
-    Dolphin (or mint explorer)
+    Dolphin (or Thunar)
     Konsole (or any terminal that offers green on black theme with transparent toggle)
     Clementine (by far the best for my use)
     Bitwarden
@@ -10,7 +10,16 @@ Default apps:
     VLC (watch mkv files)
     Libre office
     iBus (Vietnamese typing)
+		Clock
+		ufw
+		Konsole
 Maybe:
+		VirtualBox
+		UnRar
+		Anki
+		ytDownloader
+		Drawing
+		Brave (as backup)
     Steam (use for windows apps or just play games)
     Wine (like above but in the terminal)
     Discord
