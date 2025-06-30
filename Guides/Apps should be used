@@ -14,12 +14,12 @@ Default apps:
 		ufw
 		Konsole
 Maybe:
-		VirtualBox
-		UnRar
-		Anki
-		ytDownloader
-		Drawing
-		Brave (as backup)
+	VirtualBox
+	UnRar
+	Anki
+	ytDownloader
+	Drawing
+	Brave (as backup)
     Steam (use for windows apps or just play games)
     Wine (like above but in the terminal)
     Discord
