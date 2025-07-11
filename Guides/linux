@@ -70,4 +70,5 @@ ncdu # gui disk analyzer
 #fedora 42 somehow cannot play 2k video natively
 # ubuntu gnome somehow fixes this with vlc
 # Show second for gnom
+
 gsettings set org.gnome.desktop.interface clock-show-seconds true
