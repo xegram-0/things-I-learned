@@ -12,4 +12,4 @@
 
 Important command lines:
 sudo nano /etc/systemd/resolved.conf
-sudo service systemd-restart
+sudo systemctl restart systemd-resolved
