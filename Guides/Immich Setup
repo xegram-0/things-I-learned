@@ -1,1 +1,22 @@
-Install Docker
+Based on this guide: https://immich.app/docs/install/docker-compose/
+1. Follow the link guide
+2. Check out the place to store and upload files before activating docker
+    UPLOAD_LOCATION=./library
+    LOCATION=./postgres
+3. Update time zone
+    # TZ=Etc/UTC
+4. Change the default password
+    DB_PASSWORD=postgres
+5. In docker-compose.yml, update whatever picture folders needed on the cloud at volumes
+    - ${UPLOAD_LOCATION}:/usr/src/app/upload
+    - /etc/localtime:/etc/localtime:ro
+6. Start up docker
+    sudo docker compose up -d
+
+In case of updating changes if either yml and .env is configured after running docker:
+    sudo docker compose down
+then
+    sudo docker compose up -d
+after that check if the server is in constant restart
+    sudo docker ps
+if it is the case, double check the yml and .env, highly it is a misconfiguration
