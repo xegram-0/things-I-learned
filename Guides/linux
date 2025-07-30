@@ -66,7 +66,4 @@ ncdu # gui disk analyzer
 # scrcpy does work for android
 # but not for ios
 # realvnc requires account liscence
-#f12 for boot menu
-#fedora 42 somehow cannot play 2k video natively
-# ubuntu gnome somehow fixes this with vlc
-# Show second for gnom
+
