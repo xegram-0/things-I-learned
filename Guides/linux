@@ -61,7 +61,5 @@ ncdu # gui disk analyzer
 # type bash in cmd to enter linux mode
 # do not install on the store as it does not 
 # use & to make multiple cmd despite failure
-# scrcpy does work for android
-# but not for ios
 # realvnc requires account liscence
 
