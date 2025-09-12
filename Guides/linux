@@ -52,6 +52,5 @@ ncdu # gui disk analyzer
 # follow the guide on ms site should work fine
 # type bash in cmd to enter linux mode
 # do not install on the store as it does not 
-# use & to make multiple cmd despite failure
-# realvnc requires account liscence
+# use & to make multiple cmd 
 
