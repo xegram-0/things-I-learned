@@ -4,3 +4,12 @@
 4. Number before a key to do distance moving.
 5. Shift + 4 and 0 for line moving.
 6. gg for top of the file and G for the end.
+7. I to insert beginning of the line;
+    A for the end of the line
+8. O: new line below current line
+    o: for above
+9. x to delete but not in insert mode
+10. r to replace with a character but not  in insert mode.
+11. s: same but in insert mode, used for more than 2 characters.
+12. W, E and B to skip over word that connects to special characters.
+13. _: to move to the beginning of the word of the line.
