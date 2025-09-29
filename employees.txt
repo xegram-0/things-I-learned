@@ -1,0 +1,129 @@
+client details:
+{
+  "orderId": "ORD123456",
+  "client": {
+    "name": "Jane Doe",
+    "phone": "+1-555-123-4567",
+    "email": "jane.doe@example.com",
+    "deliveryAddress": {
+      "street": "123 Maple Street",
+      "city": "Springfield",
+      "state": "IL",
+      "zipCode": "62704",
+      "country": "USA"
+    }
+  },
+  "orderDetails": {
+    "orderDate": "2025-09-28T14:30:00Z",
+    "items": [
+      {
+        "productId": "P1001",
+        "productName": "Wireless Bluetooth Headphones",
+        "quantity": 1,
+        "price": 59.99
+      },
+      {
+        "productId": "P1002",
+        "productName": "Portable Phone Charger",
+        "quantity": 2,
+        "price": 19.99
+      }
+    ],
+    "subtotal": 99.97,
+    "tax": 8.00,
+    "deliveryFee": 5.00,
+    "totalAmount": 112.97,
+    "paymentMethod": "Credit Card"
+  },
+  "deliveryInfo": {
+    "deliveryCompany": "FastShip Delivery",
+    "trackingNumber": "FS1234567890",
+    "estimatedDelivery": "2025-09-30T18:00:00Z",
+    "currentStatus": "Out for delivery",
+    "lastUpdated": "2025-09-29T09:00:00Z",
+    "deliveryPerson": {
+      "name": "Carlos Martinez",
+      "phone": "+1-555-987-6543",
+      "vehicle": "Van - License Plate ABC-1234"
+    },
+    "route": [
+      {"location": "Warehouse", "timestamp": "2025-09-29T06:00:00Z"},
+      {"location": "Distribution Center", "timestamp": "2025-09-29T07:30:00Z"},
+      {"location": "On Route", "timestamp": "2025-09-29T08:45:00Z"}
+    ]
+  },
+  "customerSupport": {
+    "phone": "+1-800-DELIVER",
+    "email": "support@fastship.com",
+    "liveChatAvailable": true,
+    "chatLink": "https://fastship.com/support/chat"
+  }
+}
+
+
+employees:
+[
+  {
+    "employeeId": "EMP001",
+    "name": "Carlos Martinez",
+    "phone": "+1-555-987-6543",
+    "email": "carlos.martinez@fastship.com",
+    "role": "Delivery Driver",
+    "vehicle": {
+      "type": "Van",
+      "licensePlate": "ABC-1234"
+    },
+    "currentStatus": "On Route",
+    "assignedDeliveries": [
+      {
+        "orderId": "ORD123456",
+        "deliveryAddress": "123 Maple Street, Springfield, IL",
+        "estimatedDelivery": "2025-09-30T18:00:00Z",
+        "status": "Out for delivery"
+      },
+      {
+        "orderId": "ORD123457",
+        "deliveryAddress": "456 Oak Avenue, Springfield, IL",
+        "estimatedDelivery": "2025-09-30T20:00:00Z",
+        "status": "Pending"
+      }
+    ],
+    "performance": {
+      "deliveriesCompleted": 150,
+      "averageDeliveryTimeMins": 35,
+      "customerRating": 4.7
+    }
+  },
+  {
+    "employeeId": "EMP002",
+    "name": "Linda Nguyen",
+    "phone": "+1-555-234-5678",
+    "email": "linda.nguyen@fastship.com",
+    "role": "Delivery Driver",
+    "vehicle": {
+      "type": "Motorbike",
+      "licensePlate": "XYZ-5678"
+    },
+    "currentStatus": "Available",
+    "assignedDeliveries": [],
+    "performance": {
+      "deliveriesCompleted": 98,
+      "averageDeliveryTimeMins": 25,
+      "customerRating": 4.9
+    }
+  },
+  {
+    "employeeId": "EMP003",
+    "name": "Raj Patel",
+    "phone": "+1-555-678-9012",
+    "email": "raj.patel@fastship.com",
+    "role": "Dispatcher",
+    "currentStatus": "On Duty",
+    "assignedDeliveries": [],
+    "performance": {}
+  }
+]
+
+
+
+
