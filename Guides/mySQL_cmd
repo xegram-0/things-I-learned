@@ -1,3 +1,5 @@
+Some commands to remember when starting out SQL:
+
 CREATE DATABASE my_new_database;
 CREATE TABLE users (
     id INT AUTO_INCREMENT PRIMARY KEY,
