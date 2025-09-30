@@ -1,0 +1,99 @@
+# to update bios of a machine (lenovo thinkpad)
+# only to xfce
+sudo fwupdmgr update
+# check system boottime
+systemd-analyze time
+# display information of the system
+uname -a # for all the stuff
+# link bash cmd with config
+alias ls="ls --color=auto"
+# unalias
+mkdir -p {}
+#enable a service
+sudo systemctl enable --now [service]
+# check it status
+sudo systemctl status [service]
+# install unikey is ibus-bamboo
+# xfce lock screen bg and 
+profile picture should have 
+# the lightdm gui and 
+# images should be in usr share backgrounds
+# gdm is for gnome
+head and tail -n 5
+journalctl
+touch [1..3].txt
+ln -s create link
+find -name -type
+chmod chown chgrp umask 
+# default file permissions
+finger
+# neofetch << fastfetch 
+# same but with the name indicated the difference
+gsconnect if kde connect failed
+# debian does not have its bluetooth gui
+# gnome blur shell is a joke
+tac and cat 
+# same but reverse order of display
+ncdu # gui disk analyzer
+# grep is to find a specific text 
+# within the file and can use with other commands
+# not fully riceable
+# defauft theme is not good looking enough
+# to run a train in the terminal
+# smb password
+# check ip address of the server pc since it can 
+# be changed
+
+# kde hates 
+# not as lightweight as I thought
+# constant crash on the theme shops
+# despite being highly customizable, things can get
+# buggy and out of place
+# this de can get too hot
+# the shop is slow
+
+# xfce hates
+# very hard to use at first
+# everything is like a lego block
+# hotkeys are not intuitive
+# not every guide would be xfce specific
+# does not feel snappy
+
+# gnome hates
+# default theme is quite boring
+# resouce consumption is higher than others
+# boot time is longer than usual 
+# stable but boring at some times
+# the only de I know how to bring an app to other
+# workplace without complicating it
+# unknown icons
+
+# I may like the default of this distro a lot more
+# the shop loads faster
+# kde can cap laptop battery 
+# elisa as music player is amazing
+# it is arch based distro
+# high maintenance is a myth
+# for some reasons my firefox is lagging when
+# watching yt
+# you need a partition manager for kde
+# unmount then lock then proceed like usual
+# seem like yt is slow on firefox
+# the downloading on firefox would appear on the
+#screen rather than the browser
+# you have to hit apply when install or upgrade
+#when using the software update
+# download xp drive from their site then use 
+# bash to install the .sh file
+# ip v6 fix to access steam
+# change dns to cloudflare dns
+# for kde change auto to manual
+sudo nano /etc/systemd/resolved.conf
+sudo service systemd-restart
+
+# to use bash on windows, have to install wsl
+# follow the guide on ms site should work fine
+# type bash in cmd to enter linux mode
+# do not install on the store as it does not work
+# libre can have template
+
