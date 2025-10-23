@@ -10,7 +10,9 @@
     sudo systemctl restart systemd-resolved 
 # This will not change permanently as you have to manually type this line in order to change DNS
 # There is also etc/resolvd.conf but does nothing
-
+Windows stuff:
+6. For DNS over HTTP template using the .3: 
+https://family.cloudflare-dns.com/dns-query
 Important command lines:
 sudo nano /etc/systemd/resolved.conf
 sudo systemctl restart systemd-resolved
