@@ -13,6 +13,8 @@ Default apps:
 		Clock
 		ufw
 		jetbrains stuff
+    TexStudio
+    Nvim Lazy Vim
 Maybe:
 	VirtualBox
 	UnRar
