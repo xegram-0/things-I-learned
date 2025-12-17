@@ -49,7 +49,6 @@ ncdu # gui disk analyzer
 # not every guide would be xfce specific
 # does not feel snappy
 # to use bash on windows, have to install wsl
-# follow the guide on ms site should work fine
 
 # use & to make multiple cmd 
 
