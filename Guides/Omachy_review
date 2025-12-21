@@ -7,3 +7,19 @@ Need improvements:
 1. The clock does not show seconds by defaults
 2. Cannot play game
 3. Sometimes things cannot be consistent such as waybar or dns
+
+
+
+Guides on EFI
+1. lsblk -f
+2. sudo mkdir /mnt/winboot/
+   sudo mount /dev/<win partition> /mnt/winboot/
+3. sudo cp -r /mnt/winboot/EFI/Microsoft /boot/EFI/
+4. sudo nvim /boot/limine.conf
+   /Windows 11
+          protocol: EFI
+          path: boot():/EFI/Microsoft/Boot/bootmgfw.efi
+          comment: stuff
+5. Reboot then check
+
+Link: https://github.com/basecamp/omarchy/discussions/1604
