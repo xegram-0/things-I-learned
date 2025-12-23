@@ -42,13 +42,6 @@ ncdu # gui disk analyzer
 # buggy and out of place
 # this de can get too hot
 # the shop is slow
-# xfce hates
-# very hard to use at first
-# everything is like a lego block
-# hotkeys are not intuitive
-# not every guide would be xfce specific
-# does not feel snappy
-# to use bash on windows, have to install wsl
 
 # use & to make multiple cmd 
-
+echo $XDG_SESSION_TYPE #check X11 or wayland
