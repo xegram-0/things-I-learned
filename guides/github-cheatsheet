@@ -1,0 +1,11 @@
+Case 1: Change name of the directory in git repo
+Because github does not provide means of changing directory name, only in terminal can that happen.
+git mv <old-name> <new-name>
+Then the git commit and git push.
+
+Case 2: Naming convention
+Use the this-is-the-name for github naming convention.
+
+Case 3: Move multiple files in git repo
+mv dir1/file1 dir1/file2 dir2/
+mv dir/* DIR/

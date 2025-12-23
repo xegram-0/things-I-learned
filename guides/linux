@@ -45,3 +45,12 @@ ncdu # gui disk analyzer
 
 # use & to make multiple cmd 
 echo $XDG_SESSION_TYPE #check X11 or wayland
+
+# create customized commands
+1. Using alias
+example: alias yt='....'
+2. Using bash function
+example: yt() {
+  yt-dlp -f "bv*[ext=mp4]+ba[ext=m4a]/b[ext=mp4]" --merge-output-format mp4 "$@"
+}
+After that, source .bashrc before using the commands. Another option is using the script should the process is complex.
