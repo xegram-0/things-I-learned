@@ -1,7 +1,0 @@
-Donwload the git plugin from the godot.
-Then get the credentials based on https://github.com/godotengine/godot-git-plugin/wiki/Git-plugin-v3.
-Next is to create the repository for the game files and copy the SSH link to the remote access from create remote option in the godot.
-(bottom left of the screen after selecting the commit history)
-Check the output to track the progress in case there are any errors along the way.
-
-You would have to rebase/fetch before you push so that you can commit

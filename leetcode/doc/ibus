@@ -1,7 +1,0 @@
-Check AUR for ibus-bamboo
-Follow the instruction online until the makepkg (might need to install the cmd to continue)
-https://linuxize.com/post/how-to-copy-cut-paste-in-vim/
-Upon having ibus installed, check the settings and select always on for property pannel
-(The thing on the taskbar keeps disappearing when hovering around)
-Using Vietnamese bamboo flag should do the trick
-Check the settings to suit your need
