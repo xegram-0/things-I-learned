@@ -1,1 +1,0 @@
-echo $XDG_SESSION_TYPE
